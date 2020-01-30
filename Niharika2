@@ -1,0 +1,8 @@
+public class Niha{
+public static void main (String [] arge){
+int a=2;
+int b=3;
+int c a+b;
+Ststem.out.println(c);
+}
+}            
